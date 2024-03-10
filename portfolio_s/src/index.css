@@ -1,0 +1,13 @@
+@import url('https://fonts.google.com/selection?query=raleway');
+
+@import url('https://fonts.google.com/specimen/Romanesco?query=roman ');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Raleway', sans-serif;
+  }
+}
